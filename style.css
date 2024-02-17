@@ -1,0 +1,86 @@
+.menu {
+     font-size: 25px;
+     height: 30px;
+     width: 1520px;
+     background-color: rgba(255, 255, 0, 0.434);
+     color:rgba(0, 0, 0, 0.948);
+     text-align: center;
+     margin: 8px 0PX 5PX 0PX;
+     
+}
+.day {
+    font-size: 20px;
+    height:25px;
+    width:1520px;
+    background-color: rgba(127, 255, 249, 0.364);
+    color:rgba(0, 0, 0, 0.714);
+    margin-top:6px;
+    text-align: center;
+}
+.sub {
+    background-color: rgba(128, 128, 128, 0.29);
+    color: rgba(0, 0, 0, 0.673);
+    height:122px;
+    width: 1475px;
+    border: 2px solid rgba(128, 128, 128, 0.637);
+    margin: 3px 0px 6px 15px;
+}
+h1 {
+     font-size:15px;
+}
+
+.syllabus {
+    height: 40px;
+    width: 100px;
+    margin: 8px 0px 0px 50px;
+}
+.sub-next {
+    background-color: rgba(128, 128, 128, 0.29);
+    color: rgba(0, 0, 0, 0.673);
+    height:60px;
+    width: 1475px;
+    border: 2px solid rgba(128, 128, 128, 0.637);
+    margin: 3px 0px 6px 15px;
+   
+}
+.circle { 
+   
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: rgba(73, 134, 73, 0.623);
+    /*border-color: black;*/
+    margin: 10px 0px 15px 660px;
+
+} 
+
+
+.containt {
+    
+    margin-left: 20px;
+
+}
+.size {
+    font-size:large;
+}
+.blank {
+    height: 25px;
+    width: 1520px;
+}
+.details {
+    background-color:  rgba(73, 134, 73, 0.623);
+    color: white;
+    height:30px ;
+    width:1520px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.student {
+    height: 80px;
+    width: 1520px;
+    font-size: medium;
+}
+
+   
